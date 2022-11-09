@@ -4,4 +4,4 @@ Descriptions and text developments with characters, does not apply to applicatio
 Описания и текстовые наработки с персонажами, не относится к разработке приложений.
 
 
-## [Описание семьи Miracle и персонажей](./Miracle%20Family/readme.md)
+## [Описание семьи Miracle и персонажей](./Miracle%20Family/)
