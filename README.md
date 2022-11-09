@@ -1,2 +1,4 @@
-# my-original-characters
-Questionnaires and text developments with characters, does not apply to application development.  Анкеты и текстовые наработки с персонажами, не относится к разработке приложений.
+# Хранилище анкет персонажей | Description storage for characters
+Descriptions and text developments with characters, does not apply to application development.
+
+Описания и текстовые наработки с персонажами, не относится к разработке приложений.
